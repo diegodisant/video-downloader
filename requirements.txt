@@ -4,5 +4,5 @@ idna==3.10
 pycolorecho==0.1.1
 pyloggermanager==0.1.4
 pym3u8downloader==0.1.8
-requests==2.32.3
+requests==2.32.4
 urllib3==2.4.0
